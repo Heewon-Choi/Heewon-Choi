@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <h3></h3>
+  <h3>깃헙뉴비</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heewon33)](https://solved.ac/heewon33/)
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=heewon33&theme=warm)](https://solved.ac/heewon33/)
+  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=heewon33&theme=dark)](https://solved.ac/heewon33/)
 </div>
